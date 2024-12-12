@@ -1,0 +1,31 @@
+{
+  "apps": [
+    {
+      "id": 1,
+      "name": "App One",
+      "version": "1.0.0",
+      "description": "This is the first app. It's amazing and does many things.",
+      "postDate": "2024-12-01",
+      "icon": "https://via.placeholder.com/100",
+      "downloadLink": "https://example.com/download/app-one"
+    },
+    {
+      "id": 2,
+      "name": "App Two",
+      "version": "2.1.3",
+      "description": "This is the second app. It has advanced features.",
+      "postDate": "2024-12-05",
+      "icon": "https://via.placeholder.com/100",
+      "downloadLink": "https://example.com/download/app-two"
+    },
+    {
+      "id": 3,
+      "name": "App Three",
+      "version": "3.5.0",
+      "description": "This app is designed for productivity and efficiency.",
+      "postDate": "2024-12-10",
+      "icon": "https://via.placeholder.com/100",
+      "downloadLink": "https://example.com/download/app-three"
+    }
+  ]
+}
