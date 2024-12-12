@@ -2,33 +2,53 @@
   "apps": [
     {
       "id": 1,
-      "name": "Spotify",
-      "version": "1.0.0",
-      "features": "Premium Unlocked",
-      "description": "This is the first app. It's amazing and does many things.",
-      "postDate": "2024-12-01",
-      "icon": "https://i.ibb.co/sHpF7Vq/smartphone.png",
-      "downloadLink": "https://example.com/download/app-one"
+      "name": "WhatsApp",
+      "version": "2.23.12",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/WhatsApp_logo.svg/1200px-WhatsApp_logo.svg.png",
+      "postDate": "2024-12-10",
+      "features": "Texting, Voice & Video Calls",
+      "description": "A popular messaging app for text, voice, and video communication.",
+      "downloadLink": "https://www.whatsapp.com/download"
     },
     {
       "id": 2,
-      "name": "Resso",
-      "version": "2.1.3",
-      "features": "Premium Unlocked, Lite MOD",
-      "description": "This is the second app. It has advanced features.",
-      "postDate": "2024-12-05",
-      "icon": "https://via.placeholder.com/100",
-      "downloadLink": "https://example.com/download/app-two"
+      "name": "Instagram",
+      "version": "300.1.0",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png",
+      "postDate": "2024-12-01",
+      "features": "Photo & Video Sharing, Stories, Messaging",
+      "description": "A photo and video sharing social media platform.",
+      "downloadLink": "https://www.instagram.com/download"
     },
     {
       "id": 3,
-      "name": "Apple Music",
-      "version": "3.5.0",
-      "features": "Premium Unlocked",
-      "description": "This app is designed for productivity and efficiency.",
-      "postDate": "2024-12-10",
-      "icon": "https://via.placeholder.com/100",
-      "downloadLink": "https://example.com/download/app-three"
+      "name": "TikTok",
+      "version": "25.4.0",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/TikTok_Logo_2021.svg/1200px-TikTok_Logo_2021.svg.png",
+      "postDate": "2024-11-28",
+      "features": "Short-form Videos, Social Media",
+      "description": "Create and share short-form videos with music and effects.",
+      "downloadLink": "https://www.tiktok.com/download"
+    },
+    {
+      "id": 4,
+      "name": "Spotify",
+      "version": "8.7.32",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/8/89/Spotify_logo_with_text.svg",
+      "postDate": "2024-12-05",
+      "features": "Music Streaming, Playlists",
+      "description": "Stream music from millions of songs and podcasts.",
+      "downloadLink": "https://www.spotify.com/download"
+    },
+    {
+      "id": 5,
+      "name": "YouTube",
+      "version": "18.30.34",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png",
+      "postDate": "2024-12-03",
+      "features": "Video Sharing, Music, Live Streams",
+      "description": "Watch and share videos, live streams, and more.",
+      "downloadLink": "https://www.youtube.com/download"
     }
   ]
 }
