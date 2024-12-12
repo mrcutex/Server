@@ -2,7 +2,7 @@
   "apps": [
     {
       "id": 1,
-      "name": "App One",
+      "name": "Spotify",
       "version": "1.0.0",
       "description": "This is the first app. It's amazing and does many things.",
       "postDate": "2024-12-01",
@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "name": "App Two",
+      "name": "Resso",
       "version": "2.1.3",
       "description": "This is the second app. It has advanced features.",
       "postDate": "2024-12-05",
@@ -20,7 +20,7 @@
     },
     {
       "id": 3,
-      "name": "App Three",
+      "name": "Apple Music",
       "version": "3.5.0",
       "description": "This app is designed for productivity and efficiency.",
       "postDate": "2024-12-10",
